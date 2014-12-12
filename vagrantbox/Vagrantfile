@@ -10,7 +10,7 @@ boxes = [
   {
     :name => :AzulinhoDevelPackages,
     :ram => 256,
-    :book => 'git',
+    :book => 'devel-packages',
     :ip => "7"
   }
 ]
