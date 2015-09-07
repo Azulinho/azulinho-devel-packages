@@ -14,3 +14,4 @@
     - db4-devel
     - libpcap-devel
     - xz-devel
+    - kernel-devel
